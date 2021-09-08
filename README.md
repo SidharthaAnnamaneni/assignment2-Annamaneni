@@ -7,8 +7,8 @@ Formerly known as The Diamond City and currently known as The Pearl City of Indi
 
 ## Travel itinerary to Hyderabad:
 
-1.Take any road commute to Kansas International airport(MCI).
-2.Booking flights.
-    i.Kansas city (MCI)-IndraGandhi int.airport(DEL).
-    ii.IndraGandhi int.airport(DEL)-RajivGandhi int.airport(HYD).
-3.Use cab to Reach any destination in city.
+1. Take any road commute to Kansas International airport(MCI).
+2. Booking flights.
+    i. Kansas city (MCI)-IndraGandhi int.airport(DEL).
+    ii. IndraGandhi int.airport(DEL)-RajivGandhi int.airport(HYD).
+3. Use cab to Reach any destination in city.
