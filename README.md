@@ -26,5 +26,14 @@ Formerly known as The Diamond City and currently known as The Pearl City of Indi
 
 ---
 
-##
+## Foods that I suggest to try
+The foods I mentioned here are very basic indian cusine food that every one can have but made in authentic style.In india some places are famous for the foods that available over there some of them are:
 
+|  Food Item        |  Location   |  Price  |
+|---                |---          |---      |
+|chicken Dum Biryani|  Hyderabad  | 150 INR |
+|Idly Sambaar       |  Chennai    |  50 INR |
+|Lassi              |  Punjab     |  50 INR |
+|Vada Pav           |  Mumbai     |  20 INR |
+
+---
