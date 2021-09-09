@@ -41,6 +41,6 @@ The foods I mentioned here are very basic indian cusine food that every one can 
 ## Quotes that inspire me
 
 >Dream is not which you see while sleeping,it is something that does not let you sleep
-*Dr.A.P.J.Abdul Kalam*
+-*Dr.A.P.J.Abdul Kalam*
 >Respect is how you treat everyone not just those you want to impress
-*Richard Branson*
+-*Richard Branson*
