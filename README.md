@@ -50,7 +50,7 @@ The foods I mentioned here are very basic indian cusine food that every one can 
 ## Code Fencing
 >The shoelace formula or `shoelace algorithm` (also known as Gauss's area formula and the surveyor's formula) is a mathematical algorithm to determine the area of a simple polygon whose vertices are described by their Cartesian coordinates in the plane.The user cross-multiplies corresponding coordinates to find the area encompassing the polygon, and subtracts it from the surrounding polygon to find the area of the polygon within.
 
-**[Read More:](https://en.wikipedia.org/wiki/Shoelace_formula)**
+Read More: <https://en.wikipedia.org/wiki/Shoelace_formula>
 
 ~~~
 
