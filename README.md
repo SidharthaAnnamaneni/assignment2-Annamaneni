@@ -66,4 +66,4 @@ double area(const vector<point>& fig) {
 
 ~~~
 
-**[click here for code source:](https://cp-algorithms.com/geometry/area-of-simple-polygon.html)**
+click here for code source: <https://cp-algorithms.com/geometry/area-of-simple-polygon.html>
